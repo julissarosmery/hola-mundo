@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+#title {
+    text-decoration: underline;
+    text-align: center;
+}
+nav {
+    width: 200px:
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    
+}
+
+#title{
+
+position: absolute;
+width: 164px;
+height: 30px;
+
+background: #E5B00D;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
